@@ -6,6 +6,15 @@ TagManager:
   tags:
   - Piso
   - Suelo
+  - Bacija
+  - Pared
+  - Vida
+  - Mana
+  - Duende
+  - Arquero
+  - Flecha
+  - Bala
+  - Lava
   layers:
   - Default
   - TransparentFX
